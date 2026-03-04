@@ -1,8 +1,8 @@
-# 👋 Hey, I'm ** Neelam Dhull**
+# 👋 Hey, I'm  Neelam Dhull
 
- **Full-Stack Developer (React • TypeScript • Node.js • MongoDB • Docker • CI/CD • AWS)**  
- I build **Full Stack Developer** with a track record of building enterprise-level solutions, optimizing backend performance, and improving operational efficiency through automation and secure access controls..  
-📍 Based in **Calgary, Alberta** 
+ Full-Stack Developer (React • TypeScript • Node.js • MongoDB • Docker • CI/CD • AWS)
+ I build  enterprise-level solutions, optimizing backend performance, and improving operational efficiency through automation and secure access controls..  
+📍 Based in Calgary, Alberta
 
 ---
 
@@ -21,7 +21,7 @@ My experience includes contributing to enterprise platforms and consultancy solu
 ---
 
 ### 🌐 Portfolio  
-My personal developer portfolio built with **Next.js**, **TypeScript**, and **Tailwind CSS** — showcasing my projects, experience, and skills.  
+My personal developer portfolio built with **Next.js**, **TypeScript**, and **Tailwind CSS** — showcasing my  experience, and skills.  
 
 🔗 **Live:** https://www.neelam.xyz
 
