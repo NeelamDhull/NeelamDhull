@@ -24,8 +24,8 @@ My experience includes contributing to enterprise platforms and consultancy solu
 
 | Project | Summary | Tech Stack | Links |
 |--------|---------|-------------|--------|
-| **Trading-Platform**<br>-|Full‑stack Trading & Investment Platform | Real‑time market dashboard with order execution, watchlists, and portfolio tracking. Replicates the core experience of Zerodha Kite with live charts, secure authentication, and seamless trade workflows.| **MERN**, JWT Auth, Express APIs, MongoDB, Git |🔗 [Source Code](https://github.com/NeelamDhull/Trading-Platform) |
-| **AI-Assistant**<br>-| Technical + Developer‑Friendly | Customizable conversational AI engine for automated Q&A, task assistance, and domain‑specific knowledge workflows. Supports multi‑persona chat modes, session memory, and deployable web UI for seamless integration into learning, support, and productivity platforms.| **MERN**, JWT, MongoDB, OpenAI APIs, Responsive React UI |🔗 [Source Code](https://github.com/NeelamDhull/AI-CHAT) |
+| **Trading-Platform**<br>-Full‑stack Trading & Investment Platform | Real‑time market dashboard with order execution, watchlists, and portfolio tracking. Replicates the core experience of Zerodha Kite with live charts, secure authentication, and seamless trade workflows.| **MERN**, JWT Auth, Express APIs, MongoDB, Git |🔗 [Source Code](https://github.com/NeelamDhull/Trading-Platform) |
+| **AI-Assistant**<br>- Technical + Developer‑Friendly | Customizable conversational AI engine for automated Q&A, task assistance, and domain‑specific knowledge workflows. Supports multi‑persona chat modes, session memory, and deployable web UI for seamless integration into learning, support, and productivity platforms.| **MERN**, JWT, MongoDB, OpenAI APIs, Responsive React UI |🔗 [Source Code](https://github.com/NeelamDhull/AI-CHAT) |
 
 
 ### 🌐 Portfolio  
