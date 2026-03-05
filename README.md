@@ -31,7 +31,7 @@ My experience includes contributing to enterprise platforms and consultancy solu
 ### 🌐 Portfolio  
 My personal developer portfolio built with **Next.js**, **TypeScript**, and **Tailwind CSS** — showcasing my  experience, and skills.  
 
-🔗 **Live:** https://www.neelam.xyz
+🔗 **Live:** (https://neelam-portfolio-one.vercel.app/)
 
 ---
 Languages: JavaScript (ES6+) • TypeScript • Java • C++ • Python • Postgresql • MongoDb • HTML5 • CSS3
@@ -48,4 +48,4 @@ AI & Computer Science: OpenAI API • Prompt Engineering • OOP • DBMS • Da
 📍 Calgary, Alberta  
 📩 **Email:** neelam.dhull@outlook.com  
    [LinkedIn](https://www.linkedin.com/in/neelam-dhull)
-   [Portfolio](https://www.neelam.xyz)
+   [Portfolio](https://neelam-portfolio-one.vercel.app/)
